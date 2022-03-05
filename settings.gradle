@@ -1,0 +1,3 @@
+include ':batteryhealth'
+include ':app'
+rootProject.name = "Battery Charge"
